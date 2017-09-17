@@ -8,7 +8,7 @@ const PokemonEntryLoaded = ({ name, info }) => (
     <ul>
       {info.types.map((type) => <li>{type}</li>)}
     </ul>
-    <li>{(info.isEvolutionBase) ? 'Base pokémon' : 'Evolved pokémon' }</li>
+    <span>{(info.isEvolutionBase) ? 'Base pokémon' : 'Evolved pokémon' }</span>
   </li>
 )
 
