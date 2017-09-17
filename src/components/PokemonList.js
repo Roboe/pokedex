@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import PokemonSlot from './PokemonSlot'
 
 const { NUM_PKMN_BY_PAGE } = require('../config.json')
 
@@ -63,6 +64,17 @@ class PokemonList extends Component {
   }
 
   render() {
+    const { store, askForPokemonInfo } = this.props
+
+    const pokemonEntriesInCurrentPage = store
+      .filter(this.onlyPokemonInCurrentPage())
+      .map((pokemon, index) => (
+        <PokemonSlot key={index}
+          pokemon={pokemon}
+          askForPokemonInfo={askForPokemonInfo}
+        />
+      ))
+
     return (
       <div>
         <nav>
@@ -70,10 +82,7 @@ class PokemonList extends Component {
           {this.getNextPageButton()}
         </nav>
         <ul>
-          {this.props.store
-            .filter(this.onlyPokemonInCurrentPage())
-            .map((pokemon, index) => <li key={index}>{pokemon.name}</li>)
-          }
+          {pokemonEntriesInCurrentPage}
         </ul>
       </div>
     )

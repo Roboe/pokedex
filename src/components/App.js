@@ -2,13 +2,13 @@ import React, { Component } from 'react'
 import PokemonList from './PokemonList'
 import SearchInput from './SearchInput'
 
-import { fetchPokemonList } from '../api/pokeapi'
+import { fetchPokemonList, fetchPokemonInfo } from '../api/pokeapi'
 
 const { NUM_PKMN_BY_PAGE, MAX_NUM_PAGES } = require('../config.json')
 
 const extractPokemonFromResource = (resource) => ({
   name: resource.name,
-  hasDetails: false,
+  info: null,
 })
 const apiParams = {
   limit: MAX_NUM_PAGES * NUM_PKMN_BY_PAGE,
@@ -29,6 +29,7 @@ class App extends Component {
 
     this.setSearchCriteria = this.setSearchCriteria.bind(this)
     this.applySearchCriteria = this.applySearchCriteria.bind(this)
+    this.askForPokemonInfo = this.askForPokemonInfo.bind(this)
   }
 
   updatePokemonList() {
@@ -39,6 +40,27 @@ class App extends Component {
           isLoading: false,
         })
       })
+  }
+
+  askForPokemonInfo(pokemonName) {
+    const { pokemonStore } = this.state
+    const pokemonData = pokemonStore
+      .find((pokemon) => pokemon.name === pokemonName)
+
+    if (pokemonData.info !== null) return
+    if (pokemonData.isLoading) return
+
+    fetchPokemonInfo(pokemonData.name)
+      .then((info) => {
+        pokemonData.info = info
+        pokemonData.isLoading = false
+
+        // Since React cannot observe changes inside objects,
+        // it is needed to force a re-render
+        this.forceUpdate()
+      })
+
+    pokemonData.isLoading = true
   }
 
   setSearchCriteria(criteria) {
@@ -64,6 +86,7 @@ class App extends Component {
         />
         <PokemonList
           store={pokemonStore.filter(this.applySearchCriteria)}
+          askForPokemonInfo={this.askForPokemonInfo}
         />
       </div>
     );
