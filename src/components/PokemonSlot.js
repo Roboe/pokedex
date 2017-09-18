@@ -6,7 +6,7 @@ const PokemonEntryLoaded = ({ name, info }) => (
     <span>{info.name}</span>
     <img src={info.picture} alt={`${info.name} in-game`} />
     <ul>
-      {info.types.map((type) => <li>{type}</li>)}
+      {info.types.map((type, index) => <li key={index}>{type}</li>)}
     </ul>
     <span>{(info.isEvolutionBase) ? 'Base pokémon' : 'Evolved pokémon' }</span>
   </li>
@@ -50,7 +50,7 @@ class PokemonSlot extends Component {
     } else {
       return (
         <PokemonEntryLoading
-        name={pokemon.name}
+          name={pokemon.name}
         />
       )
     }
