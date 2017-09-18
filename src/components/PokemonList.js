@@ -36,7 +36,7 @@ class PokemonList extends Component {
   getPrevPageButton() {
     const isDisabled = this.state.currentPage <= 0
     return (
-      <button
+      <button className="pk-nav-button pk-nav-button_previous"
         onClick={() => this.turnPage(-1)}
         disabled={isDisabled}>
           previous page
@@ -46,7 +46,7 @@ class PokemonList extends Component {
   getNextPageButton() {
     const isDisabled = this.state.currentPage >= this.lastPageNumber()
     return (
-      <button
+      <button className="pk-nav-button pk-nav-button_next"
         onClick={() => this.turnPage(1)}
         disabled={isDisabled}>
           next page
@@ -76,12 +76,12 @@ class PokemonList extends Component {
       ))
 
     return (
-      <div>
-        <nav>
+      <div className="pk-pokemon-list">
+        <nav className="pk-pokemon-list--navigation">
           {this.getPrevPageButton()}
           {this.getNextPageButton()}
         </nav>
-        <ul>
+        <ul className="pk-pokemon-list--content">
           {pokemonEntriesInCurrentPage}
         </ul>
       </div>
