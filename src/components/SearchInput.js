@@ -18,10 +18,14 @@ class SearchInput extends Component {
   render() {
     const { isDisabled } = this.props
 
+    const labelText = 'Search by name'
+
     return (
       <div className="pk-search-input">
-        <label htmlFor="search-input">Search by name</label>
-        <input type="text" id="search-input" disabled={isDisabled}
+        <label htmlFor="search-input" className="pk-search-input--label">{labelText}</label>
+        <input type="text" id="search-input" className="pk-search-input--field"
+          placeholder={labelText}
+          disabled={isDisabled}
           onChange={this.handleChange}
         />
       </div>

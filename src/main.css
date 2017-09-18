@@ -72,3 +72,5 @@ body,
 
 /* Blocks, elements and modifiers (BEM) */
 
+@import './styles/header.css';
+@import './styles/search-input.css';

@@ -1,0 +1,15 @@
+.pk-search-input {
+
+}
+.pk-search-input--label {
+  display: none;
+}
+.pk-search-input--field {
+  border: none;
+  border-radius: 1em;
+  padding: 0.5em 1em;
+}
+.pk-search-input--field:focus {
+  border: none;
+  outline: none;
+}
