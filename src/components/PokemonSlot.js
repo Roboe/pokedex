@@ -1,20 +1,41 @@
 import React, { Component } from 'react'
+import PokemonType from './presentational/PokemonType'
+
 
 const PokemonEntryLoaded = ({ name, info }) => (
-  <li>
-    <span>{`#${info.index}`}</span>
-    <span>{info.name}</span>
-    <img src={info.picture} alt={`${info.name} in-game`} />
-    <ul>
-      {info.types.map((type, index) => <li key={index}>{type}</li>)}
+  <li className="pk-pokemon-slot">
+    <div className="pk-pokemon-slot--element pk-pokemon-title">
+      <span className="pk-pokemon-title--index">{`#${info.index}`}</span>
+      <span className="pk-pokemon-title--name">{info.name}</span>
+    </div>
+    <div className="pk-pokemon-slot--element pk-pokemon-picture">
+      <img className="pk-pokemon-picture-img"
+        src={info.picture}
+        alt={`${info.name} in-game`}
+      />
+    </div>
+    <ul className="pk-pokemon-slot--element pk-pokemon-typelist">
+      {info.types.map((type, index) => <PokemonType key={index} type={type} />)}
     </ul>
-    <span>{(info.isEvolutionBase) ? 'Base pokémon' : 'Evolved pokémon' }</span>
+    <div className="pk-pokemon-slot--element">
+      <span>{(info.isEvolutionBase) ? 'Base pokémon' : 'Evolved pokémon' }</span>
+    </div>
   </li>
 )
 
 const PokemonEntryLoading = ({ name }) => (
-  <li>
-    <span>Loading data...</span>
+  <li className="pk-pokemon-slot">
+    <div className="pk-pokemon-slot--element pk-pokemon-title">
+      <span className="pk-pokemon-title--index">#</span>
+      <span className="pk-pokemon-title--name">Pokémon</span>
+    </div>
+    <div className="pk-pokemon-slot--element pk-pokemon-picture pk-pokemon-picture_loading" />
+    <ul className="pk-pokemon-slot--element pk-pokemon-typelist">
+      <PokemonType type={'?'} />
+    </ul>
+    <div className="pk-pokemon-slot--element">
+      <span>Loading data...</span>
+    </div>
   </li>
 )
 

@@ -82,4 +82,5 @@ body,
 @import './styles/header.css';
 @import './styles/search-input.css';
 @import './styles/pokemon-list.css';
+@import './styles/pokemon-slot.css';
 @import './styles/footer.css';

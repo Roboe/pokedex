@@ -7,6 +7,7 @@
 .pk-pokemon-list--navigation,
 .pk-pokemon-list--content {
   margin: 1.5rem;
+  padding: 0;
 }
 .pk-pokemon-list--navigation {
   order: 1;
@@ -22,6 +23,7 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-around;
+  list-style: none;
 }
 
 
