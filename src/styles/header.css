@@ -1,0 +1,17 @@
+.pk-header {
+  padding: 0 1.25rem;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+
+  color: #ffffff;
+}
+.pk-header--title {
+  font-size: 1.25rem;
+  font-weight: 400;
+}
+.pk-header--aside {
+  
+}

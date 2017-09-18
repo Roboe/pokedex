@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
 import PokemonList from './PokemonList'
 import SearchInput from './SearchInput'
+import Header from './presentational/Header'
+import Footer from './presentational/Footer'
 
 import { fetchPokemonList, fetchPokemonInfo } from '../api/pokeapi'
 
@@ -80,14 +82,23 @@ class App extends Component {
 
     return (
       <div id="pokedex-app" className="pk-structure">
-        <SearchInput
-          reportCriteria={this.setSearchCriteria}
-          isDisabled={isLoading}
-        />
-        <PokemonList
-          store={pokemonStore.filter(this.applySearchCriteria)}
-          askForPokemonInfo={this.askForPokemonInfo}
-        />
+        <div className="pk-structure--header">
+          <Header title="Pokédex" rootClass="pk-header">
+            <SearchInput
+              reportCriteria={this.setSearchCriteria}
+              isDisabled={isLoading}
+            />
+          </Header>
+        </div>
+        <div className="pk-structure--body">
+          <main className="pk-main">
+            <PokemonList
+              store={pokemonStore.filter(this.applySearchCriteria)}
+              askForPokemonInfo={this.askForPokemonInfo}
+            />
+          </main>
+          <Footer rootClass="pk-footer" />
+        </div>
       </div>
     );
   }

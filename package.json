@@ -4,9 +4,11 @@
   "homepage": "https://roboe.github.io/pokedex",
   "private": true,
   "dependencies": {
+    "normalize.css": "^7.0.0",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "react-scripts": "1.0.13"
+    "react-scripts": "1.0.13",
+    "typeface-fira-sans": "0.0.35"
   },
   "scripts": {
     "start": "react-scripts start",
