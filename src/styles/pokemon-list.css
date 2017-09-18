@@ -1,16 +1,23 @@
 .pk-pokemon-list {
   height: 100%;
+
+  display: flex;
+  flex-direction: column;
 }
 .pk-pokemon-list--navigation,
 .pk-pokemon-list--content {
   margin: 1.5rem;
 }
 .pk-pokemon-list--navigation {
+  order: 1;
+
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
 .pk-pokemon-list--content {
+  flex-grow: 1;
+
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
