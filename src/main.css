@@ -25,6 +25,10 @@ body,
   text-decoration: none;
 }
 
+.emoji {
+  display: inline-block;
+}
+
 
 /* App structure */
 
