@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import PokemonSlot from './PokemonSlot'
+import PokemonEntryContainer from './PokemonEntryContainer'
 
 const { NUM_PKMN_BY_PAGE } = require('../config.json')
 
@@ -69,7 +69,7 @@ class PokemonList extends Component {
     const pokemonEntriesInCurrentPage = store
       .filter(this.onlyPokemonInCurrentPage())
       .map((pokemon, index) => (
-        <PokemonSlot key={index}
+        <PokemonEntryContainer key={index}
           pokemon={pokemon}
           askForPokemonInfo={askForPokemonInfo}
         />
