@@ -7,12 +7,19 @@ class SearchInput extends Component {
   constructor(props) {
     super(props)
 
+    this.state = {
+      value: '',
+    }
+
     this.handleChange = this.handleChange.bind(this)
   }
 
-
   handleChange(event) {
-    this.props.reportCriteria(sanitizeInput(event.target.value));
+    const targetValue = event.target.value
+
+    this.setState({value: targetValue}, () => {
+      this.props.reportCriteria(sanitizeInput(targetValue))
+    })
   }
 
   render() {
@@ -25,6 +32,7 @@ class SearchInput extends Component {
         <label htmlFor="search-input" className="pk-search-input--label">{labelText}</label>
         <input type="text" id="search-input" className="pk-search-input--field"
           placeholder={labelText}
+          value={this.state.value}
           disabled={isDisabled}
           onChange={this.handleChange}
         />
