@@ -1,7 +1,7 @@
 {
   "name": "pokedex.js",
   "version": "0.1.0",
-  "homepage": "https://roboe.github.io/pokedex",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "normalize.css": "^7.0.0",
