@@ -8,6 +8,9 @@
   border: none;
   border-radius: 1em;
   padding: 0.5em 1em;
+
+  background-color: #fff;
+  color: #212121;
 }
 .pk-search-input--field:focus {
   border: none;
