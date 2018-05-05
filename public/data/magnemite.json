@@ -1,0 +1,10 @@
+{
+  "index": 81,
+  "name": "Magnemite",
+  "types": [
+    "electric",
+    "steel"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
+  "isEvolutionBase": true
+}

@@ -1,0 +1,10 @@
+{
+  "index": 122,
+  "name": "Mr. Mime",
+  "types": [
+    "psychic",
+    "fairy"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
+  "isEvolutionBase": false
+}

@@ -1,0 +1,9 @@
+{
+  "index": 125,
+  "name": "Electabuzz",
+  "types": [
+    "electric"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
+  "isEvolutionBase": false
+}

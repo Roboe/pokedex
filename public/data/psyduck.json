@@ -1,0 +1,9 @@
+{
+  "index": 54,
+  "name": "Psyduck",
+  "types": [
+    "water"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+  "isEvolutionBase": true
+}

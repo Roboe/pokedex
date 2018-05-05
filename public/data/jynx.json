@@ -1,0 +1,10 @@
+{
+  "index": 124,
+  "name": "Jynx",
+  "types": [
+    "ice",
+    "psychic"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
+  "isEvolutionBase": false
+}

@@ -1,0 +1,9 @@
+{
+  "index": 32,
+  "name": "Nidoran♂",
+  "types": [
+    "poison"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+  "isEvolutionBase": true
+}

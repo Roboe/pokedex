@@ -1,0 +1,9 @@
+{
+  "index": 136,
+  "name": "Flareon",
+  "types": [
+    "fire"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+  "isEvolutionBase": false
+}

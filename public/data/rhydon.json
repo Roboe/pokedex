@@ -1,0 +1,10 @@
+{
+  "index": 112,
+  "name": "Rhydon",
+  "types": [
+    "ground",
+    "rock"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
+  "isEvolutionBase": false
+}

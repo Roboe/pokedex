@@ -1,0 +1,9 @@
+{
+  "index": 78,
+  "name": "Rapidash",
+  "types": [
+    "fire"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
+  "isEvolutionBase": false
+}

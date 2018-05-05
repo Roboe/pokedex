@@ -1,0 +1,9 @@
+{
+  "index": 68,
+  "name": "Machamp",
+  "types": [
+    "fighting"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+  "isEvolutionBase": false
+}

@@ -1,0 +1,9 @@
+{
+  "index": 117,
+  "name": "Seadra",
+  "types": [
+    "water"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
+  "isEvolutionBase": false
+}

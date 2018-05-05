@@ -1,0 +1,9 @@
+{
+  "index": 97,
+  "name": "Hypno",
+  "types": [
+    "psychic"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
+  "isEvolutionBase": false
+}

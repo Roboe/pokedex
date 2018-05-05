@@ -1,0 +1,10 @@
+{
+  "index": 131,
+  "name": "Lapras",
+  "types": [
+    "water",
+    "ice"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+  "isEvolutionBase": true
+}

@@ -1,0 +1,9 @@
+{
+  "index": 151,
+  "name": "Mew",
+  "types": [
+    "psychic"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+  "isEvolutionBase": true
+}

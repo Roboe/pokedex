@@ -1,0 +1,10 @@
+{
+  "index": 79,
+  "name": "Slowpoke",
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+  "isEvolutionBase": true
+}

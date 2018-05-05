@@ -1,0 +1,9 @@
+{
+  "index": 5,
+  "name": "Charmeleon",
+  "types": [
+    "fire"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+  "isEvolutionBase": false
+}

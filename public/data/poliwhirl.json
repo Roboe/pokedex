@@ -1,0 +1,9 @@
+{
+  "index": 61,
+  "name": "Poliwhirl",
+  "types": [
+    "water"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
+  "isEvolutionBase": false
+}

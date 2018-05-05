@@ -1,0 +1,9 @@
+{
+  "index": 113,
+  "name": "Chansey",
+  "types": [
+    "normal"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+  "isEvolutionBase": false
+}

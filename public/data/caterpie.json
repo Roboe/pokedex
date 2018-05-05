@@ -1,0 +1,9 @@
+{
+  "index": 10,
+  "name": "Caterpie",
+  "types": [
+    "bug"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+  "isEvolutionBase": true
+}

@@ -1,0 +1,10 @@
+{
+  "index": 121,
+  "name": "Starmie",
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
+  "isEvolutionBase": false
+}

@@ -1,0 +1,10 @@
+{
+  "index": 13,
+  "name": "Weedle",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+  "isEvolutionBase": true
+}

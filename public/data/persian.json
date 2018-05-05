@@ -1,0 +1,9 @@
+{
+  "index": 53,
+  "name": "Persian",
+  "types": [
+    "normal"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+  "isEvolutionBase": false
+}

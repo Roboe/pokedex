@@ -1,0 +1,9 @@
+{
+  "index": 106,
+  "name": "Hitmonlee",
+  "types": [
+    "fighting"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
+  "isEvolutionBase": false
+}

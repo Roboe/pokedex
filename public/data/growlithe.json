@@ -1,0 +1,9 @@
+{
+  "index": 58,
+  "name": "Growlithe",
+  "types": [
+    "fire"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+  "isEvolutionBase": true
+}

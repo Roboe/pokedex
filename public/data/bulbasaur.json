@@ -1,0 +1,10 @@
+{
+  "index": 1,
+  "name": "Bulbasaur",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+  "isEvolutionBase": true
+}

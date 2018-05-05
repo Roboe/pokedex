@@ -1,0 +1,9 @@
+{
+  "index": 109,
+  "name": "Koffing",
+  "types": [
+    "poison"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
+  "isEvolutionBase": true
+}

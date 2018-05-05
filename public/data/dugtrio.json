@@ -1,0 +1,9 @@
+{
+  "index": 51,
+  "name": "Dugtrio",
+  "types": [
+    "ground"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+  "isEvolutionBase": false
+}

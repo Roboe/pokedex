@@ -1,0 +1,10 @@
+{
+  "index": 123,
+  "name": "Scyther",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
+  "isEvolutionBase": true
+}

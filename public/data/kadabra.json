@@ -1,0 +1,9 @@
+{
+  "index": 64,
+  "name": "Kadabra",
+  "types": [
+    "psychic"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
+  "isEvolutionBase": false
+}

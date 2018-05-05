@@ -1,0 +1,9 @@
+{
+  "index": 99,
+  "name": "Kingler",
+  "types": [
+    "water"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
+  "isEvolutionBase": false
+}

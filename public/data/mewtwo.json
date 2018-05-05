@@ -1,0 +1,9 @@
+{
+  "index": 150,
+  "name": "Mewtwo",
+  "types": [
+    "psychic"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+  "isEvolutionBase": true
+}

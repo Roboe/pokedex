@@ -1,0 +1,9 @@
+{
+  "index": 116,
+  "name": "Horsea",
+  "types": [
+    "water"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
+  "isEvolutionBase": true
+}

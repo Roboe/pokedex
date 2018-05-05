@@ -1,0 +1,10 @@
+{
+  "index": 74,
+  "name": "Geodude",
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+  "isEvolutionBase": true
+}

@@ -1,0 +1,10 @@
+{
+  "index": 84,
+  "name": "Doduo",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
+  "isEvolutionBase": true
+}

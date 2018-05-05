@@ -1,0 +1,9 @@
+{
+  "index": 27,
+  "name": "Sandshrew",
+  "types": [
+    "ground"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+  "isEvolutionBase": true
+}

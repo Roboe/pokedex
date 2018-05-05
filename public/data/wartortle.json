@@ -1,0 +1,9 @@
+{
+  "index": 8,
+  "name": "Wartortle",
+  "types": [
+    "water"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+  "isEvolutionBase": false
+}

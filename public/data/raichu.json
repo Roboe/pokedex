@@ -1,0 +1,9 @@
+{
+  "index": 26,
+  "name": "Raichu",
+  "types": [
+    "electric"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+  "isEvolutionBase": false
+}

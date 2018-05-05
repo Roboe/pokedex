@@ -1,0 +1,10 @@
+{
+  "index": 149,
+  "name": "Dragonite",
+  "types": [
+    "dragon",
+    "flying"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+  "isEvolutionBase": false
+}

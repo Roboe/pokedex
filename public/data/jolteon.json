@@ -1,0 +1,9 @@
+{
+  "index": 135,
+  "name": "Jolteon",
+  "types": [
+    "electric"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+  "isEvolutionBase": false
+}

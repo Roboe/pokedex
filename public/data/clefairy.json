@@ -1,0 +1,9 @@
+{
+  "index": 35,
+  "name": "Clefairy",
+  "types": [
+    "fairy"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+  "isEvolutionBase": false
+}

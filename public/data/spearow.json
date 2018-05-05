@@ -1,0 +1,10 @@
+{
+  "index": 21,
+  "name": "Spearow",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+  "isEvolutionBase": true
+}

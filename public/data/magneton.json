@@ -1,0 +1,10 @@
+{
+  "index": 82,
+  "name": "Magneton",
+  "types": [
+    "electric",
+    "steel"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
+  "isEvolutionBase": false
+}

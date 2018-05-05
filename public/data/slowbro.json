@@ -1,0 +1,10 @@
+{
+  "index": 80,
+  "name": "Slowbro",
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
+  "isEvolutionBase": false
+}

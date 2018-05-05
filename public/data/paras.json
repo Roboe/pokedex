@@ -1,0 +1,10 @@
+{
+  "index": 46,
+  "name": "Paras",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+  "isEvolutionBase": true
+}

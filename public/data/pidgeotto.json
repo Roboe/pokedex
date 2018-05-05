@@ -1,0 +1,10 @@
+{
+  "index": 17,
+  "name": "Pidgeotto",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+  "isEvolutionBase": false
+}

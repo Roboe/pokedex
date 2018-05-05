@@ -1,0 +1,10 @@
+{
+  "index": 15,
+  "name": "Beedrill",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+  "isEvolutionBase": false
+}

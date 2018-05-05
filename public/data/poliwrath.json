@@ -1,0 +1,10 @@
+{
+  "index": 62,
+  "name": "Poliwrath",
+  "types": [
+    "water",
+    "fighting"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
+  "isEvolutionBase": false
+}

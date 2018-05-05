@@ -1,0 +1,10 @@
+{
+  "index": 75,
+  "name": "Graveler",
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
+  "isEvolutionBase": false
+}

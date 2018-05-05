@@ -1,0 +1,10 @@
+{
+  "index": 145,
+  "name": "Zapdos",
+  "types": [
+    "electric",
+    "flying"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+  "isEvolutionBase": true
+}

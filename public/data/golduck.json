@@ -1,0 +1,9 @@
+{
+  "index": 55,
+  "name": "Golduck",
+  "types": [
+    "water"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+  "isEvolutionBase": false
+}

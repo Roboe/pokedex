@@ -1,0 +1,10 @@
+{
+  "index": 146,
+  "name": "Moltres",
+  "types": [
+    "fire",
+    "flying"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+  "isEvolutionBase": true
+}

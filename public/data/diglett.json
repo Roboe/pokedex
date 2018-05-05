@@ -1,0 +1,9 @@
+{
+  "index": 50,
+  "name": "Diglett",
+  "types": [
+    "ground"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+  "isEvolutionBase": true
+}

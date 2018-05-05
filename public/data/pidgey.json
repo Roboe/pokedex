@@ -1,0 +1,10 @@
+{
+  "index": 16,
+  "name": "Pidgey",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+  "isEvolutionBase": true
+}

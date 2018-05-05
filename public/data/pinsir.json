@@ -1,0 +1,9 @@
+{
+  "index": 127,
+  "name": "Pinsir",
+  "types": [
+    "bug"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+  "isEvolutionBase": true
+}

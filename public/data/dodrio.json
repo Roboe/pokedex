@@ -1,0 +1,10 @@
+{
+  "index": 85,
+  "name": "Dodrio",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
+  "isEvolutionBase": false
+}

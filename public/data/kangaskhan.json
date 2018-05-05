@@ -1,0 +1,9 @@
+{
+  "index": 115,
+  "name": "Kangaskhan",
+  "types": [
+    "normal"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
+  "isEvolutionBase": true
+}

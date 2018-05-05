@@ -1,0 +1,9 @@
+{
+  "index": 23,
+  "name": "Ekans",
+  "types": [
+    "poison"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+  "isEvolutionBase": true
+}

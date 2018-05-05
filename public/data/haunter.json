@@ -1,0 +1,10 @@
+{
+  "index": 93,
+  "name": "Haunter",
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
+  "isEvolutionBase": false
+}
