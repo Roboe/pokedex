@@ -1,0 +1,10 @@
+{
+  "index": 18,
+  "name": "Pidgeot",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+  "isEvolutionBase": false
+}

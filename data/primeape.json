@@ -1,0 +1,9 @@
+{
+  "index": 57,
+  "name": "Primeape",
+  "types": [
+    "fighting"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
+  "isEvolutionBase": false
+}

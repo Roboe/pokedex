@@ -1,0 +1,9 @@
+{
+  "index": 86,
+  "name": "Seel",
+  "types": [
+    "water"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
+  "isEvolutionBase": true
+}

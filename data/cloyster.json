@@ -1,0 +1,10 @@
+{
+  "index": 91,
+  "name": "Cloyster",
+  "types": [
+    "water",
+    "ice"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
+  "isEvolutionBase": false
+}

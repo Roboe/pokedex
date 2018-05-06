@@ -1,0 +1,10 @@
+{
+  "index": 12,
+  "name": "Butterfree",
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+  "isEvolutionBase": false
+}

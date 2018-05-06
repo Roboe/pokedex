@@ -1,0 +1,10 @@
+{
+  "index": 42,
+  "name": "Golbat",
+  "types": [
+    "poison",
+    "flying"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+  "isEvolutionBase": false
+}

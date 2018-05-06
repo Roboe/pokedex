@@ -1,0 +1,9 @@
+{
+  "index": 30,
+  "name": "Nidorina",
+  "types": [
+    "poison"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+  "isEvolutionBase": false
+}

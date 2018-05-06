@@ -1,0 +1,9 @@
+{
+  "index": 105,
+  "name": "Marowak",
+  "types": [
+    "ground"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
+  "isEvolutionBase": false
+}

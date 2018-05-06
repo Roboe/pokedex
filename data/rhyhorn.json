@@ -1,0 +1,10 @@
+{
+  "index": 111,
+  "name": "Rhyhorn",
+  "types": [
+    "ground",
+    "rock"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
+  "isEvolutionBase": true
+}

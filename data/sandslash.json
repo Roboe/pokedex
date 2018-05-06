@@ -1,0 +1,9 @@
+{
+  "index": 28,
+  "name": "Sandslash",
+  "types": [
+    "ground"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+  "isEvolutionBase": false
+}

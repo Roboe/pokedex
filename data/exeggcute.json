@@ -1,0 +1,10 @@
+{
+  "index": 102,
+  "name": "Exeggcute",
+  "types": [
+    "grass",
+    "psychic"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
+  "isEvolutionBase": true
+}

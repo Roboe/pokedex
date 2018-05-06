@@ -1,0 +1,10 @@
+{
+  "index": 31,
+  "name": "Nidoqueen",
+  "types": [
+    "poison",
+    "ground"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+  "isEvolutionBase": false
+}

@@ -1,0 +1,9 @@
+{
+  "index": 104,
+  "name": "Cubone",
+  "types": [
+    "ground"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+  "isEvolutionBase": true
+}

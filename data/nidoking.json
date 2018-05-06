@@ -1,0 +1,10 @@
+{
+  "index": 34,
+  "name": "Nidoking",
+  "types": [
+    "poison",
+    "ground"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+  "isEvolutionBase": false
+}

@@ -1,0 +1,9 @@
+{
+  "index": 60,
+  "name": "Poliwag",
+  "types": [
+    "water"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+  "isEvolutionBase": true
+}

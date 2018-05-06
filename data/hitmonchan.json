@@ -1,0 +1,9 @@
+{
+  "index": 107,
+  "name": "Hitmonchan",
+  "types": [
+    "fighting"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
+  "isEvolutionBase": false
+}

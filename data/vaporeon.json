@@ -1,0 +1,9 @@
+{
+  "index": 134,
+  "name": "Vaporeon",
+  "types": [
+    "water"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+  "isEvolutionBase": false
+}

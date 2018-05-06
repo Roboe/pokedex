@@ -1,0 +1,10 @@
+{
+  "index": 40,
+  "name": "Wigglytuff",
+  "types": [
+    "normal",
+    "fairy"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+  "isEvolutionBase": false
+}

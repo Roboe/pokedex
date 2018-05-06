@@ -1,0 +1,9 @@
+{
+  "index": 56,
+  "name": "Mankey",
+  "types": [
+    "fighting"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
+  "isEvolutionBase": true
+}

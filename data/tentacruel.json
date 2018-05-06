@@ -1,0 +1,10 @@
+{
+  "index": 73,
+  "name": "Tentacruel",
+  "types": [
+    "water",
+    "poison"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
+  "isEvolutionBase": false
+}

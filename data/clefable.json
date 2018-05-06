@@ -1,0 +1,9 @@
+{
+  "index": 36,
+  "name": "Clefable",
+  "types": [
+    "fairy"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+  "isEvolutionBase": false
+}

@@ -1,0 +1,9 @@
+{
+  "index": 37,
+  "name": "Vulpix",
+  "types": [
+    "fire"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+  "isEvolutionBase": true
+}

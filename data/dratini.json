@@ -1,0 +1,9 @@
+{
+  "index": 147,
+  "name": "Dratini",
+  "types": [
+    "dragon"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+  "isEvolutionBase": true
+}

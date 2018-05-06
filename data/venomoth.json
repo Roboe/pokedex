@@ -1,0 +1,10 @@
+{
+  "index": 49,
+  "name": "Venomoth",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+  "isEvolutionBase": false
+}

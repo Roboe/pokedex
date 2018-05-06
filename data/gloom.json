@@ -1,0 +1,10 @@
+{
+  "index": 44,
+  "name": "Gloom",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+  "isEvolutionBase": false
+}

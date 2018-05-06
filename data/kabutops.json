@@ -1,0 +1,10 @@
+{
+  "index": 141,
+  "name": "Kabutops",
+  "types": [
+    "rock",
+    "water"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
+  "isEvolutionBase": false
+}

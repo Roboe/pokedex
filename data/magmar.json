@@ -1,0 +1,9 @@
+{
+  "index": 126,
+  "name": "Magmar",
+  "types": [
+    "fire"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
+  "isEvolutionBase": false
+}

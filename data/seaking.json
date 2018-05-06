@@ -1,0 +1,9 @@
+{
+  "index": 119,
+  "name": "Seaking",
+  "types": [
+    "water"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+  "isEvolutionBase": false
+}

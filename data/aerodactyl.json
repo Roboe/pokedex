@@ -1,0 +1,10 @@
+{
+  "index": 142,
+  "name": "Aerodactyl",
+  "types": [
+    "rock",
+    "flying"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+  "isEvolutionBase": true
+}

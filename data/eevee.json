@@ -1,0 +1,9 @@
+{
+  "index": 133,
+  "name": "Eevee",
+  "types": [
+    "normal"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+  "isEvolutionBase": true
+}

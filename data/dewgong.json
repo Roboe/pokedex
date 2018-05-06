@@ -1,0 +1,10 @@
+{
+  "index": 87,
+  "name": "Dewgong",
+  "types": [
+    "water",
+    "ice"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
+  "isEvolutionBase": false
+}

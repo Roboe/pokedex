@@ -1,0 +1,10 @@
+{
+  "index": 140,
+  "name": "Kabuto",
+  "types": [
+    "rock",
+    "water"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
+  "isEvolutionBase": true
+}

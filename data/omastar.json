@@ -1,0 +1,10 @@
+{
+  "index": 139,
+  "name": "Omastar",
+  "types": [
+    "rock",
+    "water"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
+  "isEvolutionBase": false
+}

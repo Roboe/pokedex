@@ -1,0 +1,9 @@
+{
+  "index": 132,
+  "name": "Ditto",
+  "types": [
+    "normal"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+  "isEvolutionBase": true
+}

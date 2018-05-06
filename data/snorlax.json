@@ -1,0 +1,9 @@
+{
+  "index": 143,
+  "name": "Snorlax",
+  "types": [
+    "normal"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+  "isEvolutionBase": false
+}

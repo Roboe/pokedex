@@ -1,0 +1,9 @@
+{
+  "index": 90,
+  "name": "Shellder",
+  "types": [
+    "water"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+  "isEvolutionBase": true
+}

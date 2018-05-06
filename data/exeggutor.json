@@ -1,0 +1,10 @@
+{
+  "index": 103,
+  "name": "Exeggutor",
+  "types": [
+    "grass",
+    "psychic"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
+  "isEvolutionBase": false
+}

@@ -1,0 +1,9 @@
+{
+  "index": 63,
+  "name": "Abra",
+  "types": [
+    "psychic"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+  "isEvolutionBase": true
+}

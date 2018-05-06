@@ -1,0 +1,10 @@
+{
+  "index": 72,
+  "name": "Tentacool",
+  "types": [
+    "water",
+    "poison"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
+  "isEvolutionBase": true
+}

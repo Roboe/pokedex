@@ -1,0 +1,9 @@
+{
+  "index": 101,
+  "name": "Electrode",
+  "types": [
+    "electric"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
+  "isEvolutionBase": false
+}

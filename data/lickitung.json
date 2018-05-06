@@ -1,0 +1,9 @@
+{
+  "index": 108,
+  "name": "Lickitung",
+  "types": [
+    "normal"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+  "isEvolutionBase": true
+}

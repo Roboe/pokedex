@@ -1,0 +1,10 @@
+{
+  "index": 41,
+  "name": "Zubat",
+  "types": [
+    "poison",
+    "flying"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+  "isEvolutionBase": true
+}

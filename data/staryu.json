@@ -1,0 +1,9 @@
+{
+  "index": 120,
+  "name": "Staryu",
+  "types": [
+    "water"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
+  "isEvolutionBase": true
+}

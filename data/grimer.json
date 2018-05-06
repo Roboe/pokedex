@@ -1,0 +1,9 @@
+{
+  "index": 88,
+  "name": "Grimer",
+  "types": [
+    "poison"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
+  "isEvolutionBase": true
+}

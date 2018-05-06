@@ -1,0 +1,9 @@
+{
+  "index": 114,
+  "name": "Tangela",
+  "types": [
+    "grass"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
+  "isEvolutionBase": true
+}

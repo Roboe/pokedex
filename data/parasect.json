@@ -1,0 +1,10 @@
+{
+  "index": 47,
+  "name": "Parasect",
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+  "isEvolutionBase": false
+}

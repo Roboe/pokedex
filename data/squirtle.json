@@ -1,0 +1,9 @@
+{
+  "index": 7,
+  "name": "Squirtle",
+  "types": [
+    "water"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+  "isEvolutionBase": true
+}

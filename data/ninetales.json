@@ -1,0 +1,9 @@
+{
+  "index": 38,
+  "name": "Ninetales",
+  "types": [
+    "fire"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+  "isEvolutionBase": false
+}

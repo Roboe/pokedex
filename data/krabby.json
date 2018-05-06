@@ -1,0 +1,9 @@
+{
+  "index": 98,
+  "name": "Krabby",
+  "types": [
+    "water"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
+  "isEvolutionBase": true
+}

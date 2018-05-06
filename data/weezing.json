@@ -1,0 +1,9 @@
+{
+  "index": 110,
+  "name": "Weezing",
+  "types": [
+    "poison"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
+  "isEvolutionBase": false
+}

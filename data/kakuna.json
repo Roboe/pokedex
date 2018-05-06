@@ -1,0 +1,10 @@
+{
+  "index": 14,
+  "name": "Kakuna",
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+  "isEvolutionBase": false
+}

@@ -1,0 +1,10 @@
+{
+  "index": 92,
+  "name": "Gastly",
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+  "isEvolutionBase": true
+}

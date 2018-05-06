@@ -1,0 +1,9 @@
+{
+  "index": 77,
+  "name": "Ponyta",
+  "types": [
+    "fire"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
+  "isEvolutionBase": true
+}

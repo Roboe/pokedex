@@ -1,0 +1,9 @@
+{
+  "index": 148,
+  "name": "Dragonair",
+  "types": [
+    "dragon"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+  "isEvolutionBase": false
+}

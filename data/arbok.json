@@ -1,0 +1,9 @@
+{
+  "index": 24,
+  "name": "Arbok",
+  "types": [
+    "poison"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+  "isEvolutionBase": false
+}

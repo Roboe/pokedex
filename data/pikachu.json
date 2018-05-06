@@ -1,0 +1,9 @@
+{
+  "index": 25,
+  "name": "Pikachu",
+  "types": [
+    "electric"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+  "isEvolutionBase": false
+}

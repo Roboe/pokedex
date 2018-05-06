@@ -1,0 +1,9 @@
+{
+  "index": 67,
+  "name": "Machoke",
+  "types": [
+    "fighting"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
+  "isEvolutionBase": false
+}

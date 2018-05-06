@@ -1,0 +1,10 @@
+{
+  "index": 43,
+  "name": "Oddish",
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+  "isEvolutionBase": true
+}

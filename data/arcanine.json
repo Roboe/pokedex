@@ -1,0 +1,9 @@
+{
+  "index": 59,
+  "name": "Arcanine",
+  "types": [
+    "fire"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+  "isEvolutionBase": false
+}

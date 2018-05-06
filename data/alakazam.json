@@ -1,0 +1,9 @@
+{
+  "index": 65,
+  "name": "Alakazam",
+  "types": [
+    "psychic"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+  "isEvolutionBase": false
+}

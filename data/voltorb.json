@@ -1,0 +1,9 @@
+{
+  "index": 100,
+  "name": "Voltorb",
+  "types": [
+    "electric"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
+  "isEvolutionBase": true
+}

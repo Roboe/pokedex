@@ -1,0 +1,10 @@
+{
+  "index": 130,
+  "name": "Gyarados",
+  "types": [
+    "water",
+    "flying"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+  "isEvolutionBase": false
+}

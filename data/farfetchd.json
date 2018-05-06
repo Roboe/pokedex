@@ -1,0 +1,10 @@
+{
+  "index": 83,
+  "name": "Farfetch’d",
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "picture": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+  "isEvolutionBase": true
+}
