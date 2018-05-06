@@ -8,8 +8,8 @@ import { fetchPokemonList, fetchPokemonInfo } from '../api/pokeapi'
 
 const { NUM_PKMN_BY_PAGE, MAX_NUM_PAGES } = require('../config.json')
 
-const extractPokemonFromResource = (resource) => ({
-  name: resource.name,
+const extractPokemonFromResource = (id) => ({
+  name: id,
   info: null,
 })
 const apiParams = {
@@ -38,7 +38,7 @@ class App extends Component {
     fetchPokemonList(apiParams)
       .then((response) => {
         this.setState({
-          pokemonStore: response.results.map(extractPokemonFromResource),
+          pokemonStore: response.map(extractPokemonFromResource),
           isLoading: false,
         })
       })
