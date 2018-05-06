@@ -4,9 +4,19 @@ const requestp = require('request-promise-native')
 
 const ENDPOINT = 'https://pokeapi.co/api/v2'
 const GENERATION_TO_FETCH = 1
+const REGEX_POKEAPI_POKEMON_SPECIES = new RegExp('https://pokeapi.co/api/v2/pokemon-species/\(\\d+\)/')
 const DB_PATH = './public/data'
-const MAX_CONCURRENCY = 5
 
+const getIndexFromPokemonSpeciesUrl = (url) => {
+  const [, indexString] = REGEX_POKEAPI_POKEMON_SPECIES.exec(url)
+  return Number(indexString)
+}
+
+const speciesListComparator = (a, b) =>
+  getIndexFromPokemonSpeciesUrl(a.url) - getIndexFromPokemonSpeciesUrl(b.url)
+
+
+// I/O
 
 function writeJsonToDisk(fileName, json) {
   const fileContent = JSON.stringify(json, null, 2)
@@ -14,6 +24,8 @@ function writeJsonToDisk(fileName, json) {
   return fse.outputFile(fileName, fileContent)
 }
 
+
+// Pokeapi
 
 function fetchSpeciesListFromGeneration(generationNum) {
   const speciesToNames = singleSpecies => singleSpecies.name
@@ -24,6 +36,7 @@ function fetchSpeciesListFromGeneration(generationNum) {
       json: true,
     })
     .then((generationData) => generationData['pokemon_species'])
+    .then((unsortedSpeciesList) => unsortedSpeciesList.sort(speciesListComparator))
     .then((speciesList) => speciesList.map(speciesToNames))
   )
 }
@@ -62,6 +75,8 @@ function fetchPokemonInfo(id) {
   })
 }
 
+
+// Main
 
 async function createDatabase() {
   console.log('Fetching index for first generation...');
